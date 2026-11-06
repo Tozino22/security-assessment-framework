@@ -6,7 +6,7 @@ from the rules of engagement through to a findings register a GRC platform will 
 Roughly 1,350 lines of working methodology plus **AutoScan**, a Docker-based
 orchestrator that automates the breadth layer.
 
-Built by **Tosin Aina** — CISSP, CISA, CRISC, ISO/IEC 27001 Lead Auditor, ISACA AAISM.
+Built by **Tosin Aina** — CISSP, CISA, CRISC, ISO/IEC 27001 Lead Auditor.
 
 > ⚠ **Authorization is not optional.** Every procedure here assumes signed, written
 > permission to test the target. Unauthorized scanning is a criminal offence
